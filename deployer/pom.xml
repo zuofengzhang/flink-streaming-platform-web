@@ -84,6 +84,7 @@
                     <finalName>projectname</finalName>
                     <appendAssemblyId>false</appendAssemblyId>
                     <attach>false</attach>
+                    <tarLongFileMode>posix</tarLongFileMode>
                 </configuration>
             </plugin>
         </plugins>
